@@ -26,7 +26,7 @@ SECRET_KEY = '8f=3w^1$l8%y7**@^%5329!duax(d!v$o@!6ft0=&zdmj(ws&%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['akk-todoapp.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['todoapp-akk.herokuapp.com', 'akk-todoapp.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
